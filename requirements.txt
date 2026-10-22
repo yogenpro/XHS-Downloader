@@ -4,6 +4,8 @@ aiofiles==25.1.0
     # via xhs-downloader (pyproject.toml)
 aiosqlite==0.22.1
     # via xhs-downloader (pyproject.toml)
+certifi==2026.10.19
+    # via xhs-downloader (pyproject.toml)
 click==8.5.0
     # via xhs-downloader (pyproject.toml)
 curl-cffi==0.16.3
